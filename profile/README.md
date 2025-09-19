@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://img.jsdelivr.com/github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows/raw/master/Screenshots/Tool-Animation1.gif" alt="ADB Fastboot with USB Driver Tool Banner" width="60%" />
+<img src="https://img.jsdelivr.com/github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows/raw/master/Screenshots/Tool-Animation1.gif" alt="ADB Fastboot with USB Driver Tool Banner" width="70%" />
 
 ---
 
